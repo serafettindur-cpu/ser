@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+production.db
+*.db
+.venv/
